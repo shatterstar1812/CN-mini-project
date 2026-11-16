@@ -1,0 +1,4 @@
+run_id,sender_address,expected_packets,received_packets,lost_packets,packet_loss_percent,received_bytes,duration_seconds,receiver_throughput_mbps,duplicate_packets,out_of_order_packets,receiver_end_time
+e29e22c0c7cb4b809a09252ca544982c,127.0.0.1:47887,50,50,0,0.0,12800,10.0004,0.01024,0,0,2026-11-15T16:05:32.757351+00:00
+72d8f836cd0849d0afe51fe320f897d3,127.0.0.1:44466,500,500,0,0.0,256000,10.0075,0.204646,0,0,2026-11-15T16:05:43.549259+00:00
+938723a2a53848f49f5189861f8086e1,127.0.0.1:59432,2000,2000,0,0.0,2048000,9.9962,1.63902,0,0,2026-11-15T16:05:54.246266+00:00
