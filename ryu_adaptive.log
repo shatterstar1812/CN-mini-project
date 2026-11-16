@@ -1,0 +1,150 @@
+loading app congestion_controller.py
+loading app ryu.controller.ofp_handler
+instantiating app congestion_controller.py of CongestionController
+instantiating app ryu.controller.ofp_handler of OFPHandler
+Switch s1 connected
+Forwarding rules installed for Path A on 1 switch(es)
+Switch s4 connected
+Forwarding rules installed for Path A on 2 switch(es)
+Switch s3 connected
+Forwarding rules installed for Path A on 3 switch(es)
+Switch s2 connected
+Forwarding rules installed for Path A on 4 switch(es)
+Path A | s1 port 2 rate: 0.00 Mbps, utilization: 0.0%
+Path A | s1 port 2 rate: 0.00 Mbps, utilization: 0.0%
+Path A | s1 port 2 rate: 0.00 Mbps, utilization: 0.0%
+Path A | s1 port 2 rate: 0.00 Mbps, utilization: 0.0%
+Path A | s1 port 2 rate: 0.00 Mbps, utilization: 0.0%
+Path A | s1 port 2 rate: 0.00 Mbps, utilization: 0.0%
+Path A | s1 port 2 rate: 0.00 Mbps, utilization: 0.0%
+Path A | s1 port 2 rate: 0.00 Mbps, utilization: 0.0%
+Path A | s1 port 2 rate: 0.00 Mbps, utilization: 0.0%
+Path A | s1 port 2 rate: 0.00 Mbps, utilization: 0.0%
+Path A | s1 port 2 rate: 0.00 Mbps, utilization: 0.0%
+Path A | s1 port 2 rate: 0.00 Mbps, utilization: 0.0%
+Path A | s1 port 2 rate: 0.00 Mbps, utilization: 0.0%
+Path A | s1 port 2 rate: 0.00 Mbps, utilization: 0.0%
+Path A | s1 port 2 rate: 0.00 Mbps, utilization: 0.0%
+Path A | s1 port 2 rate: 0.00 Mbps, utilization: 0.0%
+Path A | s1 port 2 rate: 0.00 Mbps, utilization: 0.0%
+Path A | s1 port 2 rate: 0.00 Mbps, utilization: 0.0%
+Path A | s1 port 2 rate: 0.00 Mbps, utilization: 0.0%
+Path A | s1 port 2 rate: 0.00 Mbps, utilization: 0.0%
+Path A | s1 port 2 rate: 0.00 Mbps, utilization: 0.0%
+Path A | s1 port 2 rate: 0.00 Mbps, utilization: 0.0%
+Path A | s1 port 2 rate: 0.00 Mbps, utilization: 0.0%
+Path A | s1 port 2 rate: 0.00 Mbps, utilization: 0.0%
+Path A | s1 port 2 rate: 0.00 Mbps, utilization: 0.0%
+Path A | s1 port 2 rate: 0.00 Mbps, utilization: 0.0%
+Path A | s1 port 2 rate: 0.00 Mbps, utilization: 0.0%
+Path A | s1 port 2 rate: 0.00 Mbps, utilization: 0.0%
+Path A | s1 port 2 rate: 0.00 Mbps, utilization: 0.0%
+Path A | s1 port 2 rate: 0.00 Mbps, utilization: 0.0%
+Path A | s1 port 2 rate: 0.00 Mbps, utilization: 0.0%
+Path A | s1 port 2 rate: 0.00 Mbps, utilization: 0.0%
+Path A | s1 port 2 rate: 0.00 Mbps, utilization: 0.0%
+Path A | s1 port 2 rate: 0.00 Mbps, utilization: 0.0%
+Path A | s1 port 2 rate: 0.00 Mbps, utilization: 0.0%
+Path A | s1 port 2 rate: 0.00 Mbps, utilization: 0.0%
+Path A | s1 port 2 rate: 0.00 Mbps, utilization: 0.0%
+Path A | s1 port 2 rate: 0.00 Mbps, utilization: 0.0%
+Path A | s1 port 2 rate: 0.00 Mbps, utilization: 0.0%
+Path A | s1 port 2 rate: 0.00 Mbps, utilization: 0.0%
+Path A | s1 port 2 rate: 0.00 Mbps, utilization: 0.0%
+Path A | s1 port 2 rate: 0.00 Mbps, utilization: 0.0%
+Path A | s1 port 2 rate: 0.00 Mbps, utilization: 0.0%
+Path A | s1 port 2 rate: 0.00 Mbps, utilization: 0.0%
+Path A | s1 port 2 rate: 0.00 Mbps, utilization: 0.0%
+Path A | s1 port 2 rate: 0.00 Mbps, utilization: 0.0%
+Path A | s1 port 2 rate: 0.00 Mbps, utilization: 0.0%
+Path A | s1 port 2 rate: 0.00 Mbps, utilization: 0.0%
+Path A | s1 port 2 rate: 0.00 Mbps, utilization: 0.0%
+Path A | s1 port 2 rate: 0.00 Mbps, utilization: 0.0%
+Path A | s1 port 2 rate: 0.00 Mbps, utilization: 0.0%
+Path A | s1 port 2 rate: 0.00 Mbps, utilization: 0.0%
+Path A | s1 port 2 rate: 0.00 Mbps, utilization: 0.0%
+Path A | s1 port 2 rate: 0.00 Mbps, utilization: 0.0%
+Path A | s1 port 2 rate: 0.00 Mbps, utilization: 0.0%
+Path A | s1 port 2 rate: 0.00 Mbps, utilization: 0.0%
+Path A | s1 port 2 rate: 0.00 Mbps, utilization: 0.0%
+Path A | s1 port 2 rate: 0.00 Mbps, utilization: 0.0%
+Path A | s1 port 2 rate: 0.00 Mbps, utilization: 0.0%
+Path A | s1 port 2 rate: 0.00 Mbps, utilization: 0.0%
+Path A | s1 port 2 rate: 0.00 Mbps, utilization: 0.0%
+Path A | s1 port 2 rate: 0.00 Mbps, utilization: 0.0%
+Path A | s1 port 2 rate: 0.00 Mbps, utilization: 0.0%
+Path A | s1 port 2 rate: 0.00 Mbps, utilization: 0.0%
+Path A | s1 port 2 rate: 0.00 Mbps, utilization: 0.0%
+Path A | s1 port 2 rate: 0.00 Mbps, utilization: 0.0%
+Path A | s1 port 2 rate: 0.00 Mbps, utilization: 0.0%
+Path A | s1 port 2 rate: 0.00 Mbps, utilization: 0.0%
+Path A | s1 port 2 rate: 0.00 Mbps, utilization: 0.0%
+Path A | s1 port 2 rate: 0.00 Mbps, utilization: 0.0%
+Path A | s1 port 2 rate: 0.00 Mbps, utilization: 0.0%
+Path A | s1 port 2 rate: 0.00 Mbps, utilization: 0.0%
+Path A | s1 port 2 rate: 0.00 Mbps, utilization: 0.0%
+Path A | s1 port 2 rate: 0.00 Mbps, utilization: 0.0%
+Path A | s1 port 2 rate: 0.00 Mbps, utilization: 0.0%
+Path A | s1 port 2 rate: 0.00 Mbps, utilization: 0.0%
+Path A | s1 port 2 rate: 0.00 Mbps, utilization: 0.0%
+Path A | s1 port 2 rate: 0.00 Mbps, utilization: 0.0%
+Path A | s1 port 2 rate: 0.00 Mbps, utilization: 0.0%
+Path A | s1 port 2 rate: 0.00 Mbps, utilization: 0.0%
+Path A | s1 port 2 rate: 0.00 Mbps, utilization: 0.0%
+Path A | s1 port 2 rate: 1.25 Mbps, utilization: 25.0%
+Path A | s1 port 2 rate: 5.00 Mbps, utilization: 99.9%
+Path A | s1 port 2 rate: 5.00 Mbps, utilization: 100.1%
+CONGESTION DETECTED at 19:07:06: switching to Path B
+Forwarding rules installed for Path B on 4 switch(es)
+Path B | s1 port 2 rate: 0.40 Mbps, utilization: 8.0%
+Path B | s1 port 2 rate: 0.00 Mbps, utilization: 0.0%
+Path B | s1 port 2 rate: 0.00 Mbps, utilization: 0.0%
+Path B | s1 port 2 rate: 0.00 Mbps, utilization: 0.0%
+Path B | s1 port 2 rate: 0.00 Mbps, utilization: 0.0%
+Path B | s1 port 2 rate: 0.00 Mbps, utilization: 0.0%
+Path B | s1 port 2 rate: 0.00 Mbps, utilization: 0.0%
+Path B | s1 port 2 rate: 0.00 Mbps, utilization: 0.0%
+Path B | s1 port 2 rate: 0.00 Mbps, utilization: 0.0%
+Path B | s1 port 2 rate: 0.00 Mbps, utilization: 0.0%
+Path B | s1 port 2 rate: 0.00 Mbps, utilization: 0.0%
+Path B | s1 port 2 rate: 0.00 Mbps, utilization: 0.0%
+Path B | s1 port 2 rate: 0.00 Mbps, utilization: 0.0%
+Path B | s1 port 2 rate: 0.00 Mbps, utilization: 0.0%
+Path B | s1 port 2 rate: 0.00 Mbps, utilization: 0.0%
+Path B | s1 port 2 rate: 0.00 Mbps, utilization: 0.0%
+Path B | s1 port 2 rate: 0.00 Mbps, utilization: 0.0%
+Path B | s1 port 2 rate: 0.00 Mbps, utilization: 0.0%
+Path B | s1 port 2 rate: 0.00 Mbps, utilization: 0.0%
+Path B | s1 port 2 rate: 0.00 Mbps, utilization: 0.0%
+Path B | s1 port 2 rate: 0.00 Mbps, utilization: 0.0%
+Path B | s1 port 2 rate: 0.00 Mbps, utilization: 0.0%
+Path B | s1 port 2 rate: 0.00 Mbps, utilization: 0.0%
+Path B | s1 port 2 rate: 0.00 Mbps, utilization: 0.0%
+Path B | s1 port 2 rate: 0.00 Mbps, utilization: 0.0%
+Path B | s1 port 2 rate: 0.00 Mbps, utilization: 0.0%
+Path B | s1 port 2 rate: 0.00 Mbps, utilization: 0.0%
+Path B | s1 port 2 rate: 0.00 Mbps, utilization: 0.0%
+Path B | s1 port 2 rate: 0.00 Mbps, utilization: 0.0%
+Path B | s1 port 2 rate: 0.00 Mbps, utilization: 0.0%
+Path B | s1 port 2 rate: 0.00 Mbps, utilization: 0.0%
+Path B | s1 port 2 rate: 0.00 Mbps, utilization: 0.0%
+Path B | s1 port 2 rate: 0.00 Mbps, utilization: 0.0%
+Path B | s1 port 2 rate: 0.00 Mbps, utilization: 0.0%
+Path B | s1 port 2 rate: 0.00 Mbps, utilization: 0.0%
+Path B | s1 port 2 rate: 0.00 Mbps, utilization: 0.0%
+Path B | s1 port 2 rate: 0.00 Mbps, utilization: 0.0%
+Path B | s1 port 2 rate: 0.00 Mbps, utilization: 0.0%
+Path B | s1 port 2 rate: 0.00 Mbps, utilization: 0.0%
+Path B | s1 port 2 rate: 0.00 Mbps, utilization: 0.0%
+Path B | s1 port 2 rate: 0.00 Mbps, utilization: 0.0%
+Path B | s1 port 2 rate: 0.00 Mbps, utilization: 0.0%
+Path B | s1 port 2 rate: 0.00 Mbps, utilization: 0.0%
+Path B | s1 port 2 rate: 0.00 Mbps, utilization: 0.0%
+Path B | s1 port 2 rate: 0.00 Mbps, utilization: 0.0%
+Path B | s1 port 2 rate: 0.00 Mbps, utilization: 0.0%
+Path B | s1 port 2 rate: 0.00 Mbps, utilization: 0.0%
+Path B | s1 port 2 rate: 0.00 Mbps, utilization: 0.0%
+Switch s1 disconnected
+Switch s4 disconnected
+Switch s3 disconnected
+Switch s2 disconnected
