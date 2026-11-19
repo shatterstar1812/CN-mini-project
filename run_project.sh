@@ -107,12 +107,15 @@ run_mininet() {
       echo "h1 $PYTHON $ROOT/udp_sender.py --host $H2_IP --port $PORT --rate $rate --size $size --duration $dur --stats $out/sender_stats.csv > $out/sender_$name.log 2>&1"
       echo "sh sleep $GAP"
     done
+      [ "$scenario" = "adaptive" ] && echo "sh sleep 12"
     echo "h2 pkill -f udp_receiver.py"
     echo "exit"
   } > "$cli"
 
   log "Running '$scenario' experiment in Mininet (about $(( ${#WORKLOADS[@]} * 15 + 20 )) s)"
-  ( cd "$ROOT" && $SUDO "$PYTHON" topology.py $topo_args < "$cli" > "$out/mininet.log" 2>&1 )
+  # Run the command file with Mininet's "source" command; piping it straight
+  # into the CLI lets running host commands swallow the later lines.
+  ( cd "$ROOT" && echo "source $cli" | $SUDO "$PYTHON" topology.py $topo_args > "$out/mininet.log" 2>&1 )
 
   if [ -n "$RYU_PID" ]; then kill "$RYU_PID" 2>/dev/null; RYU_PID=""; fi
   $SUDO chown -R "$OWNER" "$out" 2>/dev/null
